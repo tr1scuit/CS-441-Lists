@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">CS 441 Lists</string>
+
+    <string-array name="shopping_list">
+        <item>Eggs</item>
+        <item>Bread</item>
+        <item>Milk</item>
+        <item>Spinach</item>
+    </string-array>
+
+    <integer-array name="price_list">
+        <item>250</item>
+        <item>200</item>
+        <item>325</item>
+        <item>350</item>
+    </integer-array>>
 </resources>

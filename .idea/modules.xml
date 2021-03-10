@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CS 441 Lists.iml" filepath="$PROJECT_DIR$/.idea/modules/CS 441 Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CS_441_Lists.iml" filepath="$PROJECT_DIR$/.idea/modules/CS_441_Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CS_441_Lists.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CS_441_Lists.app.iml" />
     </modules>
   </component>
 </project>
