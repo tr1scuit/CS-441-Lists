@@ -9,7 +9,6 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -22,7 +21,7 @@
 
             <TextView
                 android:id="@+id/itemName"
-                android:layout_width="wrap_content"
+                android:layout_width="285dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
                 android:layout_marginLeft="16dp"
@@ -35,12 +34,13 @@
                 android:id="@+id/itemPrice"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="228dp"
-                android:layout_marginLeft="228dp"
+                android:layout_marginStart="296dp"
+                android:layout_marginLeft="296dp"
+                android:layout_marginTop="8dp"
                 android:text="TextView"
                 android:textSize="20dp"
                 app:layout_constraintStart_toStartOf="@+id/itemName"
-                tools:layout_editor_absoluteY="0dp" />
+                app:layout_constraintTop_toTopOf="parent" />
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.cardview.widget.CardView>
 </androidx.constraintlayout.widget.ConstraintLayout>

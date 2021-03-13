@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">CS 441 Lists</string>
 
+    <!--> Deprecated, the list is now fully contained in ListActivity.java</-->
     <string-array name="shopping_list">
         <item>Eggs</item>
         <item>Bread</item>
